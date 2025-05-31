@@ -50,7 +50,7 @@
 | ------ | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
 | _name_ |        |         |           |   Ghyath |        |          | Ghyath |
 | _name_ |        |         |           |    Tamir |Tamir   |   Tamir  |        |
-| _name_ |        |         |           |          |        |          |        |
+| Lukmon |        |         |           |Lukmon    |Lukmon  |          |Lukmon  |
 | _name_ |        |         |           |          |        |          |        |
 | _name_ |        |         |           |          |        |          |        |
 | _name_ |        |         |           |          |        |          |        |
@@ -59,7 +59,7 @@
 
 - Ghyath Ibrahim: _2h_;
 - Tamir Salih: _2h_;
-- name: _5h_;
+- Lukmon: _2h_;
 - name: _4h_;
 - name: _3h_;
 
