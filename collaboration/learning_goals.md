@@ -18,7 +18,8 @@
 
 Ghyath's goal: learn the deployment of a machine learning model.
 
-yool' goal:
+yool' goal: Develop problem-solving and technical skills collaboratively.
+Apply the skills in solving real-world problems.
 
 lukmon's goal:
 
