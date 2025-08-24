@@ -1,0 +1,146 @@
+{
+  "n_rows": 29,
+  "n_cols": 28,
+  "columns": [
+    {
+      "name": "Project_Type",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Country",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Average_Size_of_the_Construction_Site_m\u00b2",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Estimated_Project_Duration",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "What_is_the_primary_source_of_energy_used_on_your_construction_site",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Average_Daily_Energy_Consumption",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Peak_Power_Demand_kW",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Daily_Generator_Runtime",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Do_you_meter_energy_use_by_equipment_e.g.,_lighting,_HVAC",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "What_generator_sizes_do_you_use_on_site",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Diesel_Consumption_per_Week",
+      "dtype": "object",
+      "null_frac": 0.06896551724137931
+    },
+    {
+      "name": "How_often_is_diesel_delivered",
+      "dtype": "object",
+      "null_frac": 0.10344827586206896
+    },
+    {
+      "name": "Monthly_Generator_Maintenance_Cost?_In_your_country_currency",
+      "dtype": "float64",
+      "null_frac": 0.6551724137931034
+    },
+    {
+      "name": "Common_Generator_Issues_Select_all_that_apply",
+      "dtype": "object",
+      "null_frac": 0.13793103448275862
+    },
+    {
+      "name": "Have_you_considered_using_solar_wind_energy_on_this_site",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Is_there_space_for_solar_installation",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Would_you_consider_a_hybrid_diesel_+_solar_system",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "What_are_your_main_concerns_about_renewable_systems?_Select_all_that_apply",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Do_you_currently_track_CO2_emissions_from_generator_use?",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Are_there_sustainability_requirements_for_your_project?",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "What_factors_most_influence_your_power_source_choice?_Select_all_that_apply",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Would_you_share_historical_fuel_or_energy_usage_data?",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Would_you_like_to_join_a_pilot_study_or_be_contacted_for_follow_up?",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "What_is_your_role_in_the_construction_industry",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Solar_System_Type",
+      "dtype": "object",
+      "null_frac": 0.6896551724137931
+    },
+    {
+      "name": "System_Cost_AED",
+      "dtype": "float64",
+      "null_frac": 0.6896551724137931
+    },
+    {
+      "name": "Monthly_Generator_Maintenance_Cost?_In_your_country_currency_AED",
+      "dtype": "float64",
+      "null_frac": 0.6551724137931034
+    },
+    {
+      "name": "System_Cost_AED_AED",
+      "dtype": "float64",
+      "null_frac": 0.6896551724137931
+    }
+  ]
+}
