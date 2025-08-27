@@ -2,8 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=times+new+roman&weight=1000&size=60&duration=2500&pause=1000&color=3975D7&background=FFFFFF00&vCenter=true&width=350&height=70&lines=DATA+NERDS)
 
-![Group 10 Banner](./A_2D_digital_graphic_design_banner_for_a_group_nam.png)
-
 ---
 
 ## 📑 Table of Contents
