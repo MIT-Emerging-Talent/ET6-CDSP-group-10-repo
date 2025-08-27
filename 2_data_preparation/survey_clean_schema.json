@@ -1,0 +1,136 @@
+{
+  "n_rows": 5000,
+  "n_cols": 26,
+  "columns": [
+    {
+      "name": "Project_Type",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Industry_Role",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Country",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Average_Site_Size_m\u00b2",
+      "dtype": "object",
+      "null_frac": 0.2108
+    },
+    {
+      "name": "Project_Duration_Months",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Primary_Energy_Source",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Average_Daily_Energy_Consumption_KWh",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Peak_Power_Demand_kW",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Daily_Generator_Runtime_Hours",
+      "dtype": "object",
+      "null_frac": 0.1954
+    },
+    {
+      "name": "Meter_By_Equipment",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Generator_Sizes_KVA",
+      "dtype": "object",
+      "null_frac": 0.1602
+    },
+    {
+      "name": "Diesel_Consumption_Per_Week_Liters",
+      "dtype": "object",
+      "null_frac": 0.2094
+    },
+    {
+      "name": "Diesel_Delivery_Per_Week",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Monthly_Gen_Maintenance_Cost_USD",
+      "dtype": "float64",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Common_Gen_Issues",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Space_For_Solar",
+      "dtype": "object",
+      "null_frac": 0.2524
+    },
+    {
+      "name": "Consider_Hybrid_System",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Renewable_Concerns",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Power_Source_Factors",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Sustainability_Requirements",
+      "dtype": "object",
+      "null_frac": 0.2478
+    },
+    {
+      "name": "Track_CO2_Emissions",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Considered_Renewables",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Using_Renewables",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Willing_To_Share_Data",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Join_Pilot_Study",
+      "dtype": "object",
+      "null_frac": 0.0
+    },
+    {
+      "name": "Monthly_Gen_Maintenance_Cost_USD_AED",
+      "dtype": "float64",
+      "null_frac": 0.0
+    }
+  ]
+}

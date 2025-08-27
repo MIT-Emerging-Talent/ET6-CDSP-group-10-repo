@@ -1,0 +1,66 @@
+Dataset shape: 5000 rows, 29 columns
+
+Column dtypes:
+
+Project_Type                                                         object
+Industry_Role                                                        object
+Country                                                              object
+Average_Site_Size_m²                                                 object
+Project_Duration_Months                                              object
+Primary_Energy_Source                                                object
+Average_Daily_Energy_Consumption_KWh                                 object
+Peak_Power_Demand_kW                                                 object
+Daily_Generator_Runtime_Hours                                        object
+Meter_By_Equipment                                                   object
+Generator_Sizes_KVA                                                  object
+Diesel_Consumption_Per_Week_Liters                                   object
+Diesel_Delivery_Per_Week                                             object
+Monthly_Gen_Maintenance_Cost_USD                                    float64
+Common_Gen_Issues                                                    object
+Space_For_Solar                                                      object
+Consider_Hybrid_System                                               object
+Renewable_Concerns                                                   object
+Power_Source_Factors                                                 object
+Sustainability_Requirements                                          object
+Track_CO2_Emissions                                                  object
+Considered_Renewables                                                object
+Using_Renewables                                                     object
+Willing_To_Share_Data                                                object
+Join_Pilot_Study                                                     object
+Monthly_Gen_Maintenance_Cost_USD_AED                                float64
+System_Cost_AED                                                     float64
+Monthly_Generator_Maintenance_Cost?_In_your_country_currency_AED    float64
+System_Cost_AED_AED                                                 float64
+
+
+Missing values (%):
+
+Project_Type                                                         0.0
+Industry_Role                                                        0.0
+Country                                                              0.0
+Average_Site_Size_m²                                                21.1
+Project_Duration_Months                                              0.0
+Primary_Energy_Source                                                0.0
+Average_Daily_Energy_Consumption_KWh                                 0.0
+Peak_Power_Demand_kW                                                 0.0
+Daily_Generator_Runtime_Hours                                       19.5
+Meter_By_Equipment                                                   0.0
+Generator_Sizes_KVA                                                 16.0
+Diesel_Consumption_Per_Week_Liters                                  20.9
+Diesel_Delivery_Per_Week                                             0.0
+Monthly_Gen_Maintenance_Cost_USD                                     0.0
+Common_Gen_Issues                                                    0.0
+Space_For_Solar                                                     25.2
+Consider_Hybrid_System                                               0.0
+Renewable_Concerns                                                   0.0
+Power_Source_Factors                                                 0.0
+Sustainability_Requirements                                         24.8
+Track_CO2_Emissions                                                  0.0
+Considered_Renewables                                                0.0
+Using_Renewables                                                     0.0
+Willing_To_Share_Data                                                0.0
+Join_Pilot_Study                                                     0.0
+Monthly_Gen_Maintenance_Cost_USD_AED                                 0.0
+System_Cost_AED                                                     74.5
+Monthly_Generator_Maintenance_Cost?_In_your_country_currency_AED    23.8
+System_Cost_AED_AED                                                 74.5
