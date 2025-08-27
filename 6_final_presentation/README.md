@@ -10,8 +10,3 @@ This folder contains the deliverables for Milestone #5: Final Presentation Event
 2. **Final Presentation**
    - File: `final_presentation.pptx`
    - Link: [FInal Presentation]([#](https://docs.google.com/presentation/d/103yJFVATDJNfW8B5MMbON3_LlLSDZpTmzC9kscSshe4/edit?usp=drive_link))
-
-## Notes
-
-- The pitch is designed to summarize the research, data analysis, and communication strategy in under 3 minutes.
-- The presentation can be shared via Google Slides, YouTube (as a recording), or as a PDF/PPTX in the repo.
