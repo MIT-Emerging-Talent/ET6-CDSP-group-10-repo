@@ -28,7 +28,7 @@ Lukmon Alao
 
 1.2 Yool recorded all the members present.
 
-### 2.0 AGENDA
+## 2.0 AGENDA
 
 2.1 Team prepares to begin data collection
 
@@ -40,9 +40,9 @@ Lukmon Alao
 
 2.5 Backup data collection plan
 
-### 3.0 MEETING DISCUSSIONS
+## 3.0 MEETING DISCUSSIONS
 
-#### 3.1 Team to create a Google Form for data collection, confirming strategy for African and New Age regions
+### 3.1 Team to create a Google Form for data collection
 
 Survey questions to be finalized within two days.
 
@@ -56,7 +56,7 @@ Nimatallahi to add questions to the existing Google Doc.
 
 Yool to draft the meeting report after reviewing the questions.
 
-#### 3.2 Data Collection Strategy
+### 3.2 Data Collection Strategy
 
 Focus on potential data collection from construction projects and related
 electrical equipment.
@@ -80,7 +80,7 @@ High-quality data prioritized with attention to cleaning and uniformity.
 
 Research aims at comparative analysis between Africa and New Age regions.
 
-#### 3.3 Survey Design
+### 3.3 Survey Design
 
 Use of multiple-choice format encouraged to boost completion rates.
 
@@ -91,32 +91,32 @@ energy experiences.
 
 Members to draft, share, and review survey questions individually.
 
-#### 3.4 Data Resources and Connections
+### 3.4 Data Resources and Connections
 
 Ghyath secured useful data and contacts, including IT construction engineers.
 
 These contacts will provide data crucial to the study.
 
-#### 3.5 Project Objectives
+### 3.5 Project Objectives
 
 Gathered data will help train models and evaluate energy loss in construction.
 
-#### 3.6 Backup Data Collection Plan
+### 3.6 Backup Data Collection Plan
 
 Yool proposed directly acquiring energy usage data from construction companies.
 
 Contingency plan includes lighting data and full equipment surveys to ensure
 comprehensive capture.
 
-### 4.0 SHARING OF ROLES
+## 4.0 SHARING OF ROLES
 
-4.1 Group members were assigned responsibilities to ensure task completion ahead
+Group members were assigned responsibilities to ensure task completion ahead
 of the deadline.
 
 Tamir El-Waleed was assigned a task to convert all the local currencies into USD
 based on the respective exchange rates in the market.
 
-### 5.0 CLOSING
+## 5.0 CLOSING
 
-5.1 With no further issues to discuss, Yool moved for the closure of the
+With no further issues to discuss, Yool moved for the closure of the
 meeting. The motion was accepted, and the meeting officially ended at 6:05 PM.

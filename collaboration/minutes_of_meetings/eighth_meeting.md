@@ -124,7 +124,7 @@ Lukmon Alao
 
 ## 4.0 SHARING OF ROLES
 
-### 4.1 Group members were assigned to various tasks to ensure efficient progress and timely delivery
+### 4.1 Various tasks to ensure efficient progress and timely delivery
 
 ---
 
