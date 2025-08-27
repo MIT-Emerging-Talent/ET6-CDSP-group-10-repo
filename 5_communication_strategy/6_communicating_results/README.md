@@ -17,3 +17,4 @@ This folder contains deliverables for Milestone #4: Communicating Results.
 - Target audience: Contracting companies in the MEA region.
 - Channels: LinkedIn, WhatsApp, and professional construction networks.
 - The communication artifact is designed for digital outreach campaigns.
+  

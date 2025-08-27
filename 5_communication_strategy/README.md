@@ -10,3 +10,4 @@ for the project milestones.
 
 - `milestones_gantt_p6.csv` — milestone schedule in CSV format for P6 import.
 - `milestones_gantt_p6.txt` — monospace, P6-style text Gantt for quick review.
+  

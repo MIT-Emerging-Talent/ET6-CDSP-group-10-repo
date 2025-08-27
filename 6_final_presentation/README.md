@@ -12,5 +12,4 @@ Event.
 2. **Final Presentation**
 
 - File: `final_presentation.pptx`
-- Link: [FInal Presentation]([#](https://docs.google.com/presentation/d/103
-  yJFVATDJNfW8B5MMbON3_LlLSDZpTmzC9kscSshe4/edit?usp=drive_link))
+- Link: [Final Presentation]([#](<https://docs.google.com/presentation/d/103>yJFVATDJNfW8B5MMbON3_LlLSDZpTmzC9kscSshe4/edit?usp=drive_link))
