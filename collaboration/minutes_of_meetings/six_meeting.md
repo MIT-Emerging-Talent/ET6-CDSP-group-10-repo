@@ -58,17 +58,21 @@ Yool to draft the meeting report after reviewing the questions.
 
 #### 3.2 Data Collection Strategy
 
-Focus on potential data collection from construction projects and related electrical equipment.
+Focus on potential data collection from construction projects and related
+electrical equipment.
 
 Targeting 100 construction professionals for meaningful analysis.
 
-Ghyath to initiate data collection from engineers, with emphasis on electrical tools.
+Ghyath to initiate data collection from engineers, with emphasis on electrical
+tools.
 
 Verification of current data sufficiency to proceed with the project.
 
-Gathering data on tools like drills, building machines, and power consumption from Ghana, Nigeria, and UAE.
+Gathering data on tools like drills, building machines, and power consumption
+from Ghana, Nigeria, and UAE.
 
-Strategy includes detailed inventory, consistent naming, and widespread deployment of Google Forms.
+Strategy includes detailed inventory, consistent naming, and widespread
+deployment of Google Forms.
 
 Team to use networks to reach site workers in different countries.
 
@@ -82,7 +86,8 @@ Use of multiple-choice format encouraged to boost completion rates.
 
 Proposed questions: role of respondent, country, years of experience, etc.
 
-Survey to examine energy sources, power usage, project costs, and renewable energy experiences.
+Survey to examine energy sources, power usage, project costs, and renewable
+energy experiences.
 
 Members to draft, share, and review survey questions individually.
 
@@ -100,14 +105,18 @@ Gathered data will help train models and evaluate energy loss in construction.
 
 Yool proposed directly acquiring energy usage data from construction companies.
 
-Contingency plan includes lighting data and full equipment surveys to ensure comprehensive capture.
+Contingency plan includes lighting data and full equipment surveys to ensure
+comprehensive capture.
 
 ### 4.0 SHARING OF ROLES
 
-4.1 Group members were assigned responsibilities to ensure task completion ahead of the deadline.
+4.1 Group members were assigned responsibilities to ensure task completion ahead
+of the deadline.
 
-Tamir El-Waleed was assigned a task to convert all the local currencies into USD based on the respective exchange rates in the market.
+Tamir El-Waleed was assigned a task to convert all the local currencies into USD
+based on the respective exchange rates in the market.
 
 ### 5.0 CLOSING
 
-5.1 With no further issues to discuss, Yool moved for the closure of the meeting. The motion was accepted, and the meeting officially ended at 6:05 PM.
+5.1 With no further issues to discuss, Yool moved for the closure of the
+meeting. The motion was accepted, and the meeting officially ended at 6:05 PM.

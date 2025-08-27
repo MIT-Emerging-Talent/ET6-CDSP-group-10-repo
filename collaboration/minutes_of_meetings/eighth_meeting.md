@@ -4,15 +4,15 @@
 
 **Time:** 5:00 PM – 6:45 PM GMT
 
-**Venue:** Google Meet  
+**Venue:** Google Meet
 
-**Recorder:** Yool Malaak  
+**Recorder:** Yool Malaak
 
 ---
 
 ## Attendance
 
-The following members were present:  
+The following members were present:
 
 Yool Malaak
 
@@ -36,15 +36,15 @@ Lukmon Alao
 
 ## 2.0 AGENDA
 
-- **2.1** Team prepares to begin the analysis  
+- **2.1** Team prepares to begin the analysis
 
-- **2.2** Data Cleaning and Currency Handling  
+- **2.2** Data Cleaning and Currency Handling
 
 - **2.3** Missing Values and Data Encoding Strategy
 
-- **2.4** Generator Type Consolidation  
+- **2.4** Generator Type Consolidation
 
-- **2.5** Project Research and Publication  
+- **2.5** Project Research and Publication
 
 ---
 
@@ -52,15 +52,17 @@ Lukmon Alao
 
 ### 3.1 Data Cleaning and Analysis Preparation
 
-- Plan to open a new Jupyter Notebook for analysis after completing data cleaning.
+- Plan to open a new Jupyter Notebook for analysis after completing data
+  cleaning.
 
-- Ghyath to transfer code to personal laptop and verify implementation.  
+- Ghyath to transfer code to personal laptop and verify implementation.
 
-- Pull request created for documentation; Ghyath requested code review.  
+- Pull request created for documentation; Ghyath requested code review.
 
-- Synthetic dataset generated via ChatGPT and pushed to repository.  
+- Synthetic dataset generated via ChatGPT and pushed to repository.
 
-- Team to ensure that local VS Code environments are synchronized with the repository.
+- Team to ensure that local VS Code environments are synchronized with the
+  repository.
 
 - Yool assigned to convert various currencies in the dataset to USD.
 
@@ -70,37 +72,49 @@ Lukmon Alao
 
 - Ghyath to develop code that auto-assigns currency based on country field.
 
-- Some data entries are encoded in Latin; team to handle encoding during loading.
+- Some data entries are encoded in Latin; team to handle encoding during
+  loading.
 
-- Decision to convert the `cost` column from float to integer for standardization.
+- Decision to convert the `cost` column from float to integer for
+  standardization.
 
-- Yool suggested tracking restaurant data for Nigeria and aligning data formatting with other regions.
+- Yool suggested tracking restaurant data for Nigeria and aligning data
+  formatting with other regions.
 
 ### 3.3 Missing Values and Data Encoding Strategy
 
-- Ghyath proposed automatic handling for missing values in generator-related columns.
+- Ghyath proposed automatic handling for missing values in generator-related
+  columns.
 
-- Noted that Python accepts mode filling only for categorical (non-numeric) fields.
+- Noted that Python accepts mode filling only for categorical (non-numeric)
+  fields.
 
-- Advised against filling all missing values — instead, handle based on context.
+- Advised against filling all missing values — instead, handle based on
+  context.
 
-- Team to analyze missing values in columns like generator runtime and diesel usage.
+- Team to analyze missing values in columns like generator runtime and diesel
+  usage.
 
-- Recognized that projects using grid electricity may naturally lack generator data.
+- Recognized that projects using grid electricity may naturally lack generator
+  data.
 
 ### 3.4 Generator Type Consolidation
 
-- Discussed differences in cost and performance between PMS, petrol, and diesel generators.
+- Discussed differences in cost and performance between PMS, petrol, and
+  diesel generators.
 
-- Strategy agreed: Consolidate all types under a single label — “generator” — for this study.
+- Strategy agreed: Consolidate all types under a single label — “generator” —
+  for this study.
 
-- Decision to replace specific petrol generator entries with the general “generator” label.
+- Decision to replace specific petrol generator entries with the general
+  “generator” label.
 
 ### 3.5 Project Research and Publication
 
-- Team intends to prepare the project for academic or professional publication.
+- Team intends to prepare the project for academic or professional
+  publication.
 
-- Will develop analysis questions such as:  
+- Will develop analysis questions such as:
 
 - "Which countries rely most on generators?"
 
@@ -116,4 +130,5 @@ Lukmon Alao
 
 ## 5.0 CLOSING
 
-5.1 With no further issues to discuss, Tamir moved to close the meeting. The motion was accepted, and the meeting was officially closed at **6:05 PM**
+5.1 With no further issues to discuss, Tamir moved to close the meeting. The
+motion was accepted, and the meeting was officially closed at **6:05 PM**

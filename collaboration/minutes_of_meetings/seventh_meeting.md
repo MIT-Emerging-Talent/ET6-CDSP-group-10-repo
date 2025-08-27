@@ -24,10 +24,13 @@ Lukmon Alao
 
 ## Key Actions
 
-Due to the size of the data, we agreed to synthesize the data using our survey question.
+Due to the size of the data, we agreed to synthesize the data using our survey
+question.
 
-we would suggest our organic data and the synthesized data for analysis and comparison of the findings.
+we would suggest our organic data and the synthesized data for analysis and
+comparison of the findings.
 
 ### Task assigned
 
-Tamir El-Waleed was assigned to clean our organic data, while Nimatallahi Masuud cleaned the synthesized data, with Ghyath Ibrahim working with them
+Tamir El-Waleed was assigned to clean our organic data, while Nimatallahi Masuud
+cleaned the synthesized data, with Ghyath Ibrahim working with them
