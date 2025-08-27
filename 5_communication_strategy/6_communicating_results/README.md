@@ -3,7 +3,7 @@
 This folder contains deliverables for Milestone #4: Communicating Results.
 
 ## Files
-- `target_audience.md` — description of target audience, capabilities, constraints, communication strategy, and personas.
+- `target_audience.md` — description of target audience, capabilities, constraints, & communication strategy
 - `infographic_campaign.pdf` — one-page infographic designed as a communication artifact for contractors.
 - `README.md` — this file.
 
