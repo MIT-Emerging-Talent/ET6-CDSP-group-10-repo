@@ -27,8 +27,3 @@ Our primary audience consists of **contracting companies** operating in the Midd
 - Contractors to consider including **renewable energy components** in future projects.
 - Decision-makers to evaluate hybrid solutions when planning site power needs.
 - Increased openness to pilot projects in collaboration with renewable suppliers.
-
-## Personas
-- **Ahmed – Project Manager (UAE)**: Cost-driven, focused on reliability and timelines.
-- **Grace – Sustainability Officer (Nigeria)**: Motivated by compliance with client requirements and regulations.
-- **Mohammed – Contractor (Saudi Arabia)**: Prefers proven technologies, skeptical of change, concerned with deployment speed.
